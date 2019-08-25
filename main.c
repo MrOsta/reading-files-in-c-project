@@ -3,6 +3,8 @@
 
 int main()
 {
+   
+   /*Mr Osta.*/
 // var //
 char lines[255];
 char filename[255];
@@ -82,6 +84,7 @@ printf("\n \n === \t === \t === \t === \n");
 
 printf("\n \nSuccess Work!\n \n");
 fclose(Text);
+   /*Mr Osta.*/
 
 }
 return 0;
