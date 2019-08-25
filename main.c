@@ -19,7 +19,7 @@ while(1){
 printf("\n First: Type The File Name With a type (.txt) : ");
 scanf("%s",&filename);
 printf("\n \n === \t === \t === \t === \n");
-printf("\n Secound: Okay Good!, Please Change The Shortucs Mode:");
+printf("\n Secound: Okay Good!, Please Change The shortcuts Mode:");
 
 printf("\n [1] Writing File \n [2] Reading File \n [3] Append File");
 
